@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "name": "JOBS_APP_REACT",
+    "slug": "JOBS_APP_REACT"
+  }
+}
